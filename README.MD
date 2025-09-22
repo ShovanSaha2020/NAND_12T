@@ -33,9 +33,8 @@ This project contains the design of a CMOS NAND gate implemented in Cadence Virt
   - `master.tag` – Symbol tags  
   - `thumbnail_128x128.png` – Symbol preview
 
-
 ## Author
 
-Designed by Shovan Saha 
+Designed by Shovan Saha
 
-Date: 25 September 2025
+Date: 22 September 2025
