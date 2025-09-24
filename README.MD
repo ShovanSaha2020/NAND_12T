@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project contains the design of a CMOS NAND gate implemented in Cadence Virtuoso using the gpdk 90nm technology library. The gate uses a 12-track standard cell height and includes both schematic and layout views.
+This repository contains the design of a CMOS NAND gate implemented in Cadence Virtuoso using the gpdk 90nm technology library. The gate uses a 12-track standard cell height and includes both schematic and layout views.
 
 ## Features
 
